@@ -1,0 +1,4 @@
+Este es el itinerario de Eowyn
+Atraccion Moria tiene un costo de 10 monedas, es de tipo Aventura, y se debe disponer de 2.0hs para recorrerla. Tiene un cupo de 5 personas
+El monto total por este itinerario es: 10
+El tiempo requerido para cumplir con el itinerario es: 2.0hs.

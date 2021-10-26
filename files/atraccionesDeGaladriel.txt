@@ -1,0 +1,5 @@
+Este es el itinerario de Galadriel
+Atraccion Parque San Carlos tiene un costo de 50 monedas, es de tipo Paisaje, y se debe disponer de 5.0hs para recorrerla. Tiene un cupo de 5 personas
+Atraccion Lothlórien tiene un costo de 35 monedas, es de tipo Degustacion, y se debe disponer de 1.0hs para recorrerla. Tiene un cupo de 28 personas
+El monto total por este itinerario es: 75
+El tiempo requerido para cumplir con el itinerario es: 6.0hs.

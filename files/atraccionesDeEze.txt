@@ -1,0 +1,6 @@
+Este es el itinerario de Eze
+Atraccion Lothlórien tiene un costo de 35 monedas, es de tipo Degustacion, y se debe disponer de 1.0hs para recorrerla. Tiene un cupo de 27 personas
+Atraccion Bodega Rutini tiene un costo de 10 monedas, es de tipo Degustacion, y se debe disponer de 2.0hs para recorrerla. Tiene un cupo de 13 personas
+Atraccion La Comarca tiene un costo de 3 monedas, es de tipo Degustacion, y se debe disponer de 6.5hs para recorrerla. Tiene un cupo de 149 personas
+El monto total por este itinerario es: 45
+El tiempo requerido para cumplir con el itinerario es: 9.5hs.

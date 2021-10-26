@@ -1,0 +1,6 @@
+Este es el itinerario de Nahue
+Atraccion Moria tiene un costo de 10 monedas, es de tipo Aventura, y se debe disponer de 2.0hs para recorrerla. Tiene un cupo de 3 personas
+Atraccion Bosque Negro tiene un costo de 3 monedas, es de tipo Aventura, y se debe disponer de 4.0hs para recorrerla. Tiene un cupo de 11 personas
+Atraccion Minas Tirith tiene un costo de 5 monedas, es de tipo Paisaje, y se debe disponer de 2.5hs para recorrerla. Tiene un cupo de 24 personas
+El monto total por este itinerario es: 18
+El tiempo requerido para cumplir con el itinerario es: 8.5hs.
